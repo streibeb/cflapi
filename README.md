@@ -31,4 +31,4 @@ for game in response['data']:
 ```
 
 ## Support
-If you find an bug, have any questions or have suggestions for improvements then feel free to file an issue on the Github project page [here](https://github.com/plamere/spotipy/issues).
+If you find an bug, have any questions or have suggestions for improvements then feel free to file an issue on the Github project page [here](https://github.com/streibeb/Cflapi/issues).
