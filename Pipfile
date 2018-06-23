@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 requests = "*"
-pytest = "*"
 
 [dev-packages]
 rope = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.6"
